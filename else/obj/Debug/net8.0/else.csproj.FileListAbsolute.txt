@@ -1,0 +1,15 @@
+C:\Programming\C#\else\bin\Debug\net8.0\else.exe
+C:\Programming\C#\else\bin\Debug\net8.0\else.deps.json
+C:\Programming\C#\else\bin\Debug\net8.0\else.runtimeconfig.json
+C:\Programming\C#\else\bin\Debug\net8.0\else.dll
+C:\Programming\C#\else\bin\Debug\net8.0\else.pdb
+C:\Programming\C#\else\obj\Debug\net8.0\else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\else\obj\Debug\net8.0\else.AssemblyInfoInputs.cache
+C:\Programming\C#\else\obj\Debug\net8.0\else.AssemblyInfo.cs
+C:\Programming\C#\else\obj\Debug\net8.0\else.csproj.CoreCompileInputs.cache
+C:\Programming\C#\else\obj\Debug\net8.0\else.sourcelink.json
+C:\Programming\C#\else\obj\Debug\net8.0\else.dll
+C:\Programming\C#\else\obj\Debug\net8.0\refint\else.dll
+C:\Programming\C#\else\obj\Debug\net8.0\else.pdb
+C:\Programming\C#\else\obj\Debug\net8.0\else.genruntimeconfig.cache
+C:\Programming\C#\else\obj\Debug\net8.0\ref\else.dll

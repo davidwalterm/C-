@@ -1,0 +1,15 @@
+C:\Programming\C#\if\bin\Debug\net8.0\if.exe
+C:\Programming\C#\if\bin\Debug\net8.0\if.deps.json
+C:\Programming\C#\if\bin\Debug\net8.0\if.runtimeconfig.json
+C:\Programming\C#\if\bin\Debug\net8.0\if.dll
+C:\Programming\C#\if\bin\Debug\net8.0\if.pdb
+C:\Programming\C#\if\obj\Debug\net8.0\if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\if\obj\Debug\net8.0\if.AssemblyInfoInputs.cache
+C:\Programming\C#\if\obj\Debug\net8.0\if.AssemblyInfo.cs
+C:\Programming\C#\if\obj\Debug\net8.0\if.csproj.CoreCompileInputs.cache
+C:\Programming\C#\if\obj\Debug\net8.0\if.sourcelink.json
+C:\Programming\C#\if\obj\Debug\net8.0\if.dll
+C:\Programming\C#\if\obj\Debug\net8.0\refint\if.dll
+C:\Programming\C#\if\obj\Debug\net8.0\if.pdb
+C:\Programming\C#\if\obj\Debug\net8.0\if.genruntimeconfig.cache
+C:\Programming\C#\if\obj\Debug\net8.0\ref\if.dll
