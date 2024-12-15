@@ -1,0 +1,15 @@
+C:\Programming\C#\quotesInString\bin\Debug\net8.0\quotesInString.exe
+C:\Programming\C#\quotesInString\bin\Debug\net8.0\quotesInString.deps.json
+C:\Programming\C#\quotesInString\bin\Debug\net8.0\quotesInString.runtimeconfig.json
+C:\Programming\C#\quotesInString\bin\Debug\net8.0\quotesInString.dll
+C:\Programming\C#\quotesInString\bin\Debug\net8.0\quotesInString.pdb
+C:\Programming\C#\quotesInString\obj\Debug\net8.0\quotesInString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\quotesInString\obj\Debug\net8.0\quotesInString.AssemblyInfoInputs.cache
+C:\Programming\C#\quotesInString\obj\Debug\net8.0\quotesInString.AssemblyInfo.cs
+C:\Programming\C#\quotesInString\obj\Debug\net8.0\quotesInString.csproj.CoreCompileInputs.cache
+C:\Programming\C#\quotesInString\obj\Debug\net8.0\quotesInString.sourcelink.json
+C:\Programming\C#\quotesInString\obj\Debug\net8.0\quotesInString.dll
+C:\Programming\C#\quotesInString\obj\Debug\net8.0\refint\quotesInString.dll
+C:\Programming\C#\quotesInString\obj\Debug\net8.0\quotesInString.pdb
+C:\Programming\C#\quotesInString\obj\Debug\net8.0\quotesInString.genruntimeconfig.cache
+C:\Programming\C#\quotesInString\obj\Debug\net8.0\ref\quotesInString.dll

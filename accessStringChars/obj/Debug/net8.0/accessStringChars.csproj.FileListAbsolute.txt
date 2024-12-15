@@ -1,0 +1,15 @@
+C:\Programming\C#\accessStringChars\bin\Debug\net8.0\accessStringChars.exe
+C:\Programming\C#\accessStringChars\bin\Debug\net8.0\accessStringChars.deps.json
+C:\Programming\C#\accessStringChars\bin\Debug\net8.0\accessStringChars.runtimeconfig.json
+C:\Programming\C#\accessStringChars\bin\Debug\net8.0\accessStringChars.dll
+C:\Programming\C#\accessStringChars\bin\Debug\net8.0\accessStringChars.pdb
+C:\Programming\C#\accessStringChars\obj\Debug\net8.0\accessStringChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\accessStringChars\obj\Debug\net8.0\accessStringChars.AssemblyInfoInputs.cache
+C:\Programming\C#\accessStringChars\obj\Debug\net8.0\accessStringChars.AssemblyInfo.cs
+C:\Programming\C#\accessStringChars\obj\Debug\net8.0\accessStringChars.csproj.CoreCompileInputs.cache
+C:\Programming\C#\accessStringChars\obj\Debug\net8.0\accessStringChars.sourcelink.json
+C:\Programming\C#\accessStringChars\obj\Debug\net8.0\accessStringChars.dll
+C:\Programming\C#\accessStringChars\obj\Debug\net8.0\refint\accessStringChars.dll
+C:\Programming\C#\accessStringChars\obj\Debug\net8.0\accessStringChars.pdb
+C:\Programming\C#\accessStringChars\obj\Debug\net8.0\accessStringChars.genruntimeconfig.cache
+C:\Programming\C#\accessStringChars\obj\Debug\net8.0\ref\accessStringChars.dll

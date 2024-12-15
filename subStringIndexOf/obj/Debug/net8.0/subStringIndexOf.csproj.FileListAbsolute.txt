@@ -1,0 +1,15 @@
+C:\Programming\C#\subStringIndexOf\bin\Debug\net8.0\subStringIndexOf.exe
+C:\Programming\C#\subStringIndexOf\bin\Debug\net8.0\subStringIndexOf.deps.json
+C:\Programming\C#\subStringIndexOf\bin\Debug\net8.0\subStringIndexOf.runtimeconfig.json
+C:\Programming\C#\subStringIndexOf\bin\Debug\net8.0\subStringIndexOf.dll
+C:\Programming\C#\subStringIndexOf\bin\Debug\net8.0\subStringIndexOf.pdb
+C:\Programming\C#\subStringIndexOf\obj\Debug\net8.0\subStringIndexOf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\subStringIndexOf\obj\Debug\net8.0\subStringIndexOf.AssemblyInfoInputs.cache
+C:\Programming\C#\subStringIndexOf\obj\Debug\net8.0\subStringIndexOf.AssemblyInfo.cs
+C:\Programming\C#\subStringIndexOf\obj\Debug\net8.0\subStringIndexOf.csproj.CoreCompileInputs.cache
+C:\Programming\C#\subStringIndexOf\obj\Debug\net8.0\subStringIndexOf.sourcelink.json
+C:\Programming\C#\subStringIndexOf\obj\Debug\net8.0\subStringIndexOf.dll
+C:\Programming\C#\subStringIndexOf\obj\Debug\net8.0\refint\subStringIndexOf.dll
+C:\Programming\C#\subStringIndexOf\obj\Debug\net8.0\subStringIndexOf.pdb
+C:\Programming\C#\subStringIndexOf\obj\Debug\net8.0\subStringIndexOf.genruntimeconfig.cache
+C:\Programming\C#\subStringIndexOf\obj\Debug\net8.0\ref\subStringIndexOf.dll

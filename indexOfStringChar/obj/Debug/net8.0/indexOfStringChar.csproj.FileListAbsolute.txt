@@ -1,0 +1,15 @@
+C:\Programming\C#\indexOfStringChar\bin\Debug\net8.0\indexOfStringChar.exe
+C:\Programming\C#\indexOfStringChar\bin\Debug\net8.0\indexOfStringChar.deps.json
+C:\Programming\C#\indexOfStringChar\bin\Debug\net8.0\indexOfStringChar.runtimeconfig.json
+C:\Programming\C#\indexOfStringChar\bin\Debug\net8.0\indexOfStringChar.dll
+C:\Programming\C#\indexOfStringChar\bin\Debug\net8.0\indexOfStringChar.pdb
+C:\Programming\C#\indexOfStringChar\obj\Debug\net8.0\indexOfStringChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\indexOfStringChar\obj\Debug\net8.0\indexOfStringChar.AssemblyInfoInputs.cache
+C:\Programming\C#\indexOfStringChar\obj\Debug\net8.0\indexOfStringChar.AssemblyInfo.cs
+C:\Programming\C#\indexOfStringChar\obj\Debug\net8.0\indexOfStringChar.csproj.CoreCompileInputs.cache
+C:\Programming\C#\indexOfStringChar\obj\Debug\net8.0\indexOfStringChar.sourcelink.json
+C:\Programming\C#\indexOfStringChar\obj\Debug\net8.0\indexOfStringChar.dll
+C:\Programming\C#\indexOfStringChar\obj\Debug\net8.0\refint\indexOfStringChar.dll
+C:\Programming\C#\indexOfStringChar\obj\Debug\net8.0\indexOfStringChar.pdb
+C:\Programming\C#\indexOfStringChar\obj\Debug\net8.0\indexOfStringChar.genruntimeconfig.cache
+C:\Programming\C#\indexOfStringChar\obj\Debug\net8.0\ref\indexOfStringChar.dll
