@@ -1,0 +1,15 @@
+C:\Programming\C#\doubleEqual\bin\Debug\net8.0\doubleEqual.exe
+C:\Programming\C#\doubleEqual\bin\Debug\net8.0\doubleEqual.deps.json
+C:\Programming\C#\doubleEqual\bin\Debug\net8.0\doubleEqual.runtimeconfig.json
+C:\Programming\C#\doubleEqual\bin\Debug\net8.0\doubleEqual.dll
+C:\Programming\C#\doubleEqual\bin\Debug\net8.0\doubleEqual.pdb
+C:\Programming\C#\doubleEqual\obj\Debug\net8.0\doubleEqual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\doubleEqual\obj\Debug\net8.0\doubleEqual.AssemblyInfoInputs.cache
+C:\Programming\C#\doubleEqual\obj\Debug\net8.0\doubleEqual.AssemblyInfo.cs
+C:\Programming\C#\doubleEqual\obj\Debug\net8.0\doubleEqual.csproj.CoreCompileInputs.cache
+C:\Programming\C#\doubleEqual\obj\Debug\net8.0\doubleEqual.sourcelink.json
+C:\Programming\C#\doubleEqual\obj\Debug\net8.0\doubleEqual.dll
+C:\Programming\C#\doubleEqual\obj\Debug\net8.0\refint\doubleEqual.dll
+C:\Programming\C#\doubleEqual\obj\Debug\net8.0\doubleEqual.pdb
+C:\Programming\C#\doubleEqual\obj\Debug\net8.0\doubleEqual.genruntimeconfig.cache
+C:\Programming\C#\doubleEqual\obj\Debug\net8.0\ref\doubleEqual.dll

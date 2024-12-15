@@ -1,0 +1,15 @@
+C:\Programming\C#\trueOrFalse\bin\Debug\net8.0\trueOrFalse.exe
+C:\Programming\C#\trueOrFalse\bin\Debug\net8.0\trueOrFalse.deps.json
+C:\Programming\C#\trueOrFalse\bin\Debug\net8.0\trueOrFalse.runtimeconfig.json
+C:\Programming\C#\trueOrFalse\bin\Debug\net8.0\trueOrFalse.dll
+C:\Programming\C#\trueOrFalse\bin\Debug\net8.0\trueOrFalse.pdb
+C:\Programming\C#\trueOrFalse\obj\Debug\net8.0\trueOrFalse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\trueOrFalse\obj\Debug\net8.0\trueOrFalse.AssemblyInfoInputs.cache
+C:\Programming\C#\trueOrFalse\obj\Debug\net8.0\trueOrFalse.AssemblyInfo.cs
+C:\Programming\C#\trueOrFalse\obj\Debug\net8.0\trueOrFalse.csproj.CoreCompileInputs.cache
+C:\Programming\C#\trueOrFalse\obj\Debug\net8.0\trueOrFalse.sourcelink.json
+C:\Programming\C#\trueOrFalse\obj\Debug\net8.0\trueOrFalse.dll
+C:\Programming\C#\trueOrFalse\obj\Debug\net8.0\refint\trueOrFalse.dll
+C:\Programming\C#\trueOrFalse\obj\Debug\net8.0\trueOrFalse.pdb
+C:\Programming\C#\trueOrFalse\obj\Debug\net8.0\trueOrFalse.genruntimeconfig.cache
+C:\Programming\C#\trueOrFalse\obj\Debug\net8.0\ref\trueOrFalse.dll

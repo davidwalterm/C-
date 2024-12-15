@@ -1,0 +1,15 @@
+C:\Programming\C#\bool\bin\Debug\net8.0\bool.exe
+C:\Programming\C#\bool\bin\Debug\net8.0\bool.deps.json
+C:\Programming\C#\bool\bin\Debug\net8.0\bool.runtimeconfig.json
+C:\Programming\C#\bool\bin\Debug\net8.0\bool.dll
+C:\Programming\C#\bool\bin\Debug\net8.0\bool.pdb
+C:\Programming\C#\bool\obj\Debug\net8.0\bool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\bool\obj\Debug\net8.0\bool.AssemblyInfoInputs.cache
+C:\Programming\C#\bool\obj\Debug\net8.0\bool.AssemblyInfo.cs
+C:\Programming\C#\bool\obj\Debug\net8.0\bool.csproj.CoreCompileInputs.cache
+C:\Programming\C#\bool\obj\Debug\net8.0\bool.sourcelink.json
+C:\Programming\C#\bool\obj\Debug\net8.0\bool.dll
+C:\Programming\C#\bool\obj\Debug\net8.0\refint\bool.dll
+C:\Programming\C#\bool\obj\Debug\net8.0\bool.pdb
+C:\Programming\C#\bool\obj\Debug\net8.0\bool.genruntimeconfig.cache
+C:\Programming\C#\bool\obj\Debug\net8.0\ref\bool.dll
