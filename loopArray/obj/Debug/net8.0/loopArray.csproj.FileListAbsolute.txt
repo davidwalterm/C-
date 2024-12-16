@@ -1,0 +1,15 @@
+C:\Programming\C#\loopArray\bin\Debug\net8.0\loopArray.exe
+C:\Programming\C#\loopArray\bin\Debug\net8.0\loopArray.deps.json
+C:\Programming\C#\loopArray\bin\Debug\net8.0\loopArray.runtimeconfig.json
+C:\Programming\C#\loopArray\bin\Debug\net8.0\loopArray.dll
+C:\Programming\C#\loopArray\bin\Debug\net8.0\loopArray.pdb
+C:\Programming\C#\loopArray\obj\Debug\net8.0\loopArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\loopArray\obj\Debug\net8.0\loopArray.AssemblyInfoInputs.cache
+C:\Programming\C#\loopArray\obj\Debug\net8.0\loopArray.AssemblyInfo.cs
+C:\Programming\C#\loopArray\obj\Debug\net8.0\loopArray.csproj.CoreCompileInputs.cache
+C:\Programming\C#\loopArray\obj\Debug\net8.0\loopArray.sourcelink.json
+C:\Programming\C#\loopArray\obj\Debug\net8.0\loopArray.dll
+C:\Programming\C#\loopArray\obj\Debug\net8.0\refint\loopArray.dll
+C:\Programming\C#\loopArray\obj\Debug\net8.0\loopArray.pdb
+C:\Programming\C#\loopArray\obj\Debug\net8.0\loopArray.genruntimeconfig.cache
+C:\Programming\C#\loopArray\obj\Debug\net8.0\ref\loopArray.dll

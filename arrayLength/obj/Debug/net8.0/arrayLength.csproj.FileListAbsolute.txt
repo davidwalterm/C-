@@ -1,0 +1,15 @@
+C:\Programming\C#\arrayLength\bin\Debug\net8.0\arrayLength.exe
+C:\Programming\C#\arrayLength\bin\Debug\net8.0\arrayLength.deps.json
+C:\Programming\C#\arrayLength\bin\Debug\net8.0\arrayLength.runtimeconfig.json
+C:\Programming\C#\arrayLength\bin\Debug\net8.0\arrayLength.dll
+C:\Programming\C#\arrayLength\bin\Debug\net8.0\arrayLength.pdb
+C:\Programming\C#\arrayLength\obj\Debug\net8.0\arrayLength.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\arrayLength\obj\Debug\net8.0\arrayLength.AssemblyInfoInputs.cache
+C:\Programming\C#\arrayLength\obj\Debug\net8.0\arrayLength.AssemblyInfo.cs
+C:\Programming\C#\arrayLength\obj\Debug\net8.0\arrayLength.csproj.CoreCompileInputs.cache
+C:\Programming\C#\arrayLength\obj\Debug\net8.0\arrayLength.sourcelink.json
+C:\Programming\C#\arrayLength\obj\Debug\net8.0\arrayLength.dll
+C:\Programming\C#\arrayLength\obj\Debug\net8.0\refint\arrayLength.dll
+C:\Programming\C#\arrayLength\obj\Debug\net8.0\arrayLength.pdb
+C:\Programming\C#\arrayLength\obj\Debug\net8.0\arrayLength.genruntimeconfig.cache
+C:\Programming\C#\arrayLength\obj\Debug\net8.0\ref\arrayLength.dll

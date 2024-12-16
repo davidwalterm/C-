@@ -1,0 +1,15 @@
+C:\Programming\C#\sortArray\bin\Debug\net8.0\sortArray.exe
+C:\Programming\C#\sortArray\bin\Debug\net8.0\sortArray.deps.json
+C:\Programming\C#\sortArray\bin\Debug\net8.0\sortArray.runtimeconfig.json
+C:\Programming\C#\sortArray\bin\Debug\net8.0\sortArray.dll
+C:\Programming\C#\sortArray\bin\Debug\net8.0\sortArray.pdb
+C:\Programming\C#\sortArray\obj\Debug\net8.0\sortArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\sortArray\obj\Debug\net8.0\sortArray.AssemblyInfoInputs.cache
+C:\Programming\C#\sortArray\obj\Debug\net8.0\sortArray.AssemblyInfo.cs
+C:\Programming\C#\sortArray\obj\Debug\net8.0\sortArray.csproj.CoreCompileInputs.cache
+C:\Programming\C#\sortArray\obj\Debug\net8.0\sortArray.sourcelink.json
+C:\Programming\C#\sortArray\obj\Debug\net8.0\sortArray.dll
+C:\Programming\C#\sortArray\obj\Debug\net8.0\refint\sortArray.dll
+C:\Programming\C#\sortArray\obj\Debug\net8.0\sortArray.pdb
+C:\Programming\C#\sortArray\obj\Debug\net8.0\sortArray.genruntimeconfig.cache
+C:\Programming\C#\sortArray\obj\Debug\net8.0\ref\sortArray.dll

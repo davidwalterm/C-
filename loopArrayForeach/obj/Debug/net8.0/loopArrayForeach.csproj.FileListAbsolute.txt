@@ -1,0 +1,15 @@
+C:\Programming\C#\loopArrayForeach\bin\Debug\net8.0\loopArrayForeach.exe
+C:\Programming\C#\loopArrayForeach\bin\Debug\net8.0\loopArrayForeach.deps.json
+C:\Programming\C#\loopArrayForeach\bin\Debug\net8.0\loopArrayForeach.runtimeconfig.json
+C:\Programming\C#\loopArrayForeach\bin\Debug\net8.0\loopArrayForeach.dll
+C:\Programming\C#\loopArrayForeach\bin\Debug\net8.0\loopArrayForeach.pdb
+C:\Programming\C#\loopArrayForeach\obj\Debug\net8.0\loopArrayForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\loopArrayForeach\obj\Debug\net8.0\loopArrayForeach.AssemblyInfoInputs.cache
+C:\Programming\C#\loopArrayForeach\obj\Debug\net8.0\loopArrayForeach.AssemblyInfo.cs
+C:\Programming\C#\loopArrayForeach\obj\Debug\net8.0\loopArrayForeach.csproj.CoreCompileInputs.cache
+C:\Programming\C#\loopArrayForeach\obj\Debug\net8.0\loopArrayForeach.sourcelink.json
+C:\Programming\C#\loopArrayForeach\obj\Debug\net8.0\loopArrayForeach.dll
+C:\Programming\C#\loopArrayForeach\obj\Debug\net8.0\refint\loopArrayForeach.dll
+C:\Programming\C#\loopArrayForeach\obj\Debug\net8.0\loopArrayForeach.pdb
+C:\Programming\C#\loopArrayForeach\obj\Debug\net8.0\loopArrayForeach.genruntimeconfig.cache
+C:\Programming\C#\loopArrayForeach\obj\Debug\net8.0\ref\loopArrayForeach.dll

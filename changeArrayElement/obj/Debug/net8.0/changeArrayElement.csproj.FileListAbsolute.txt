@@ -1,0 +1,15 @@
+C:\Programming\C#\changeArrayElement\bin\Debug\net8.0\changeArrayElement.exe
+C:\Programming\C#\changeArrayElement\bin\Debug\net8.0\changeArrayElement.deps.json
+C:\Programming\C#\changeArrayElement\bin\Debug\net8.0\changeArrayElement.runtimeconfig.json
+C:\Programming\C#\changeArrayElement\bin\Debug\net8.0\changeArrayElement.dll
+C:\Programming\C#\changeArrayElement\bin\Debug\net8.0\changeArrayElement.pdb
+C:\Programming\C#\changeArrayElement\obj\Debug\net8.0\changeArrayElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\changeArrayElement\obj\Debug\net8.0\changeArrayElement.AssemblyInfoInputs.cache
+C:\Programming\C#\changeArrayElement\obj\Debug\net8.0\changeArrayElement.AssemblyInfo.cs
+C:\Programming\C#\changeArrayElement\obj\Debug\net8.0\changeArrayElement.csproj.CoreCompileInputs.cache
+C:\Programming\C#\changeArrayElement\obj\Debug\net8.0\changeArrayElement.sourcelink.json
+C:\Programming\C#\changeArrayElement\obj\Debug\net8.0\changeArrayElement.dll
+C:\Programming\C#\changeArrayElement\obj\Debug\net8.0\refint\changeArrayElement.dll
+C:\Programming\C#\changeArrayElement\obj\Debug\net8.0\changeArrayElement.pdb
+C:\Programming\C#\changeArrayElement\obj\Debug\net8.0\changeArrayElement.genruntimeconfig.cache
+C:\Programming\C#\changeArrayElement\obj\Debug\net8.0\ref\changeArrayElement.dll

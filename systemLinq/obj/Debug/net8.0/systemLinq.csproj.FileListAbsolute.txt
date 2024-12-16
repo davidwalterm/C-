@@ -1,0 +1,15 @@
+C:\Programming\C#\systemLinq\bin\Debug\net8.0\systemLinq.exe
+C:\Programming\C#\systemLinq\bin\Debug\net8.0\systemLinq.deps.json
+C:\Programming\C#\systemLinq\bin\Debug\net8.0\systemLinq.runtimeconfig.json
+C:\Programming\C#\systemLinq\bin\Debug\net8.0\systemLinq.dll
+C:\Programming\C#\systemLinq\bin\Debug\net8.0\systemLinq.pdb
+C:\Programming\C#\systemLinq\obj\Debug\net8.0\systemLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\systemLinq\obj\Debug\net8.0\systemLinq.AssemblyInfoInputs.cache
+C:\Programming\C#\systemLinq\obj\Debug\net8.0\systemLinq.AssemblyInfo.cs
+C:\Programming\C#\systemLinq\obj\Debug\net8.0\systemLinq.csproj.CoreCompileInputs.cache
+C:\Programming\C#\systemLinq\obj\Debug\net8.0\systemLinq.sourcelink.json
+C:\Programming\C#\systemLinq\obj\Debug\net8.0\systemLinq.dll
+C:\Programming\C#\systemLinq\obj\Debug\net8.0\refint\systemLinq.dll
+C:\Programming\C#\systemLinq\obj\Debug\net8.0\systemLinq.pdb
+C:\Programming\C#\systemLinq\obj\Debug\net8.0\systemLinq.genruntimeconfig.cache
+C:\Programming\C#\systemLinq\obj\Debug\net8.0\ref\systemLinq.dll
