@@ -1,0 +1,15 @@
+C:\Programming\C#\classEnum\bin\Debug\net8.0\classEnum.exe
+C:\Programming\C#\classEnum\bin\Debug\net8.0\classEnum.deps.json
+C:\Programming\C#\classEnum\bin\Debug\net8.0\classEnum.runtimeconfig.json
+C:\Programming\C#\classEnum\bin\Debug\net8.0\classEnum.dll
+C:\Programming\C#\classEnum\bin\Debug\net8.0\classEnum.pdb
+C:\Programming\C#\classEnum\obj\Debug\net8.0\classEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\classEnum\obj\Debug\net8.0\classEnum.AssemblyInfoInputs.cache
+C:\Programming\C#\classEnum\obj\Debug\net8.0\classEnum.AssemblyInfo.cs
+C:\Programming\C#\classEnum\obj\Debug\net8.0\classEnum.csproj.CoreCompileInputs.cache
+C:\Programming\C#\classEnum\obj\Debug\net8.0\classEnum.sourcelink.json
+C:\Programming\C#\classEnum\obj\Debug\net8.0\classEnum.dll
+C:\Programming\C#\classEnum\obj\Debug\net8.0\refint\classEnum.dll
+C:\Programming\C#\classEnum\obj\Debug\net8.0\classEnum.pdb
+C:\Programming\C#\classEnum\obj\Debug\net8.0\classEnum.genruntimeconfig.cache
+C:\Programming\C#\classEnum\obj\Debug\net8.0\ref\classEnum.dll

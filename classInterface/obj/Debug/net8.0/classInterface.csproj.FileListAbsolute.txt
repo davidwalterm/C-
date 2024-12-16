@@ -1,0 +1,15 @@
+C:\Programming\C#\classInterface\bin\Debug\net8.0\classInterface.exe
+C:\Programming\C#\classInterface\bin\Debug\net8.0\classInterface.deps.json
+C:\Programming\C#\classInterface\bin\Debug\net8.0\classInterface.runtimeconfig.json
+C:\Programming\C#\classInterface\bin\Debug\net8.0\classInterface.dll
+C:\Programming\C#\classInterface\bin\Debug\net8.0\classInterface.pdb
+C:\Programming\C#\classInterface\obj\Debug\net8.0\classInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\classInterface\obj\Debug\net8.0\classInterface.AssemblyInfoInputs.cache
+C:\Programming\C#\classInterface\obj\Debug\net8.0\classInterface.AssemblyInfo.cs
+C:\Programming\C#\classInterface\obj\Debug\net8.0\classInterface.csproj.CoreCompileInputs.cache
+C:\Programming\C#\classInterface\obj\Debug\net8.0\classInterface.sourcelink.json
+C:\Programming\C#\classInterface\obj\Debug\net8.0\classInterface.dll
+C:\Programming\C#\classInterface\obj\Debug\net8.0\refint\classInterface.dll
+C:\Programming\C#\classInterface\obj\Debug\net8.0\classInterface.pdb
+C:\Programming\C#\classInterface\obj\Debug\net8.0\classInterface.genruntimeconfig.cache
+C:\Programming\C#\classInterface\obj\Debug\net8.0\ref\classInterface.dll

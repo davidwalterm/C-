@@ -1,0 +1,15 @@
+C:\Programming\C#\classPrivateField\bin\Debug\net8.0\classPrivateField.exe
+C:\Programming\C#\classPrivateField\bin\Debug\net8.0\classPrivateField.deps.json
+C:\Programming\C#\classPrivateField\bin\Debug\net8.0\classPrivateField.runtimeconfig.json
+C:\Programming\C#\classPrivateField\bin\Debug\net8.0\classPrivateField.dll
+C:\Programming\C#\classPrivateField\bin\Debug\net8.0\classPrivateField.pdb
+C:\Programming\C#\classPrivateField\obj\Debug\net8.0\classPrivateField.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\classPrivateField\obj\Debug\net8.0\classPrivateField.AssemblyInfoInputs.cache
+C:\Programming\C#\classPrivateField\obj\Debug\net8.0\classPrivateField.AssemblyInfo.cs
+C:\Programming\C#\classPrivateField\obj\Debug\net8.0\classPrivateField.csproj.CoreCompileInputs.cache
+C:\Programming\C#\classPrivateField\obj\Debug\net8.0\classPrivateField.sourcelink.json
+C:\Programming\C#\classPrivateField\obj\Debug\net8.0\classPrivateField.dll
+C:\Programming\C#\classPrivateField\obj\Debug\net8.0\refint\classPrivateField.dll
+C:\Programming\C#\classPrivateField\obj\Debug\net8.0\classPrivateField.pdb
+C:\Programming\C#\classPrivateField\obj\Debug\net8.0\classPrivateField.genruntimeconfig.cache
+C:\Programming\C#\classPrivateField\obj\Debug\net8.0\ref\classPrivateField.dll

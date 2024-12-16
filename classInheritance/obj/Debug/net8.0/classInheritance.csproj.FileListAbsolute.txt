@@ -1,0 +1,15 @@
+C:\Programming\C#\classInheritance\bin\Debug\net8.0\classInheritance.exe
+C:\Programming\C#\classInheritance\bin\Debug\net8.0\classInheritance.deps.json
+C:\Programming\C#\classInheritance\bin\Debug\net8.0\classInheritance.runtimeconfig.json
+C:\Programming\C#\classInheritance\bin\Debug\net8.0\classInheritance.dll
+C:\Programming\C#\classInheritance\bin\Debug\net8.0\classInheritance.pdb
+C:\Programming\C#\classInheritance\obj\Debug\net8.0\classInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\classInheritance\obj\Debug\net8.0\classInheritance.AssemblyInfoInputs.cache
+C:\Programming\C#\classInheritance\obj\Debug\net8.0\classInheritance.AssemblyInfo.cs
+C:\Programming\C#\classInheritance\obj\Debug\net8.0\classInheritance.csproj.CoreCompileInputs.cache
+C:\Programming\C#\classInheritance\obj\Debug\net8.0\classInheritance.sourcelink.json
+C:\Programming\C#\classInheritance\obj\Debug\net8.0\classInheritance.dll
+C:\Programming\C#\classInheritance\obj\Debug\net8.0\refint\classInheritance.dll
+C:\Programming\C#\classInheritance\obj\Debug\net8.0\classInheritance.pdb
+C:\Programming\C#\classInheritance\obj\Debug\net8.0\classInheritance.genruntimeconfig.cache
+C:\Programming\C#\classInheritance\obj\Debug\net8.0\ref\classInheritance.dll

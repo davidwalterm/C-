@@ -1,0 +1,15 @@
+C:\Programming\C#\multipleClassObject\bin\Debug\net8.0\multipleClassObject.exe
+C:\Programming\C#\multipleClassObject\bin\Debug\net8.0\multipleClassObject.deps.json
+C:\Programming\C#\multipleClassObject\bin\Debug\net8.0\multipleClassObject.runtimeconfig.json
+C:\Programming\C#\multipleClassObject\bin\Debug\net8.0\multipleClassObject.dll
+C:\Programming\C#\multipleClassObject\bin\Debug\net8.0\multipleClassObject.pdb
+C:\Programming\C#\multipleClassObject\obj\Debug\net8.0\multipleClassObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\multipleClassObject\obj\Debug\net8.0\multipleClassObject.AssemblyInfoInputs.cache
+C:\Programming\C#\multipleClassObject\obj\Debug\net8.0\multipleClassObject.AssemblyInfo.cs
+C:\Programming\C#\multipleClassObject\obj\Debug\net8.0\multipleClassObject.csproj.CoreCompileInputs.cache
+C:\Programming\C#\multipleClassObject\obj\Debug\net8.0\multipleClassObject.sourcelink.json
+C:\Programming\C#\multipleClassObject\obj\Debug\net8.0\multipleClassObject.dll
+C:\Programming\C#\multipleClassObject\obj\Debug\net8.0\refint\multipleClassObject.dll
+C:\Programming\C#\multipleClassObject\obj\Debug\net8.0\multipleClassObject.pdb
+C:\Programming\C#\multipleClassObject\obj\Debug\net8.0\multipleClassObject.genruntimeconfig.cache
+C:\Programming\C#\multipleClassObject\obj\Debug\net8.0\ref\multipleClassObject.dll

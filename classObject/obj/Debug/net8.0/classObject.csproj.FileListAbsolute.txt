@@ -1,0 +1,15 @@
+C:\Programming\C#\classObject\bin\Debug\net8.0\classObject.exe
+C:\Programming\C#\classObject\bin\Debug\net8.0\classObject.deps.json
+C:\Programming\C#\classObject\bin\Debug\net8.0\classObject.runtimeconfig.json
+C:\Programming\C#\classObject\bin\Debug\net8.0\classObject.dll
+C:\Programming\C#\classObject\bin\Debug\net8.0\classObject.pdb
+C:\Programming\C#\classObject\obj\Debug\net8.0\classObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\classObject\obj\Debug\net8.0\classObject.AssemblyInfoInputs.cache
+C:\Programming\C#\classObject\obj\Debug\net8.0\classObject.AssemblyInfo.cs
+C:\Programming\C#\classObject\obj\Debug\net8.0\classObject.csproj.CoreCompileInputs.cache
+C:\Programming\C#\classObject\obj\Debug\net8.0\classObject.sourcelink.json
+C:\Programming\C#\classObject\obj\Debug\net8.0\classObject.dll
+C:\Programming\C#\classObject\obj\Debug\net8.0\refint\classObject.dll
+C:\Programming\C#\classObject\obj\Debug\net8.0\classObject.pdb
+C:\Programming\C#\classObject\obj\Debug\net8.0\classObject.genruntimeconfig.cache
+C:\Programming\C#\classObject\obj\Debug\net8.0\ref\classObject.dll

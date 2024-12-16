@@ -1,0 +1,15 @@
+C:\Programming\C#\classMultipleInterfaces\obj\Debug\net8.0\classMultipleInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\classMultipleInterfaces\obj\Debug\net8.0\classMultipleInterfaces.AssemblyInfoInputs.cache
+C:\Programming\C#\classMultipleInterfaces\obj\Debug\net8.0\classMultipleInterfaces.AssemblyInfo.cs
+C:\Programming\C#\classMultipleInterfaces\obj\Debug\net8.0\classMultipleInterfaces.csproj.CoreCompileInputs.cache
+C:\Programming\C#\classMultipleInterfaces\obj\Debug\net8.0\classMultipleInterfaces.sourcelink.json
+C:\Programming\C#\classMultipleInterfaces\bin\Debug\net8.0\classMultipleInterfaces.exe
+C:\Programming\C#\classMultipleInterfaces\bin\Debug\net8.0\classMultipleInterfaces.deps.json
+C:\Programming\C#\classMultipleInterfaces\bin\Debug\net8.0\classMultipleInterfaces.runtimeconfig.json
+C:\Programming\C#\classMultipleInterfaces\bin\Debug\net8.0\classMultipleInterfaces.dll
+C:\Programming\C#\classMultipleInterfaces\bin\Debug\net8.0\classMultipleInterfaces.pdb
+C:\Programming\C#\classMultipleInterfaces\obj\Debug\net8.0\classMultipleInterfaces.dll
+C:\Programming\C#\classMultipleInterfaces\obj\Debug\net8.0\refint\classMultipleInterfaces.dll
+C:\Programming\C#\classMultipleInterfaces\obj\Debug\net8.0\classMultipleInterfaces.pdb
+C:\Programming\C#\classMultipleInterfaces\obj\Debug\net8.0\classMultipleInterfaces.genruntimeconfig.cache
+C:\Programming\C#\classMultipleInterfaces\obj\Debug\net8.0\ref\classMultipleInterfaces.dll

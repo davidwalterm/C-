@@ -1,0 +1,15 @@
+C:\Programming\C#\classAutoGetSet\obj\Debug\net8.0\classAutoGetSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\classAutoGetSet\obj\Debug\net8.0\classAutoGetSet.AssemblyInfoInputs.cache
+C:\Programming\C#\classAutoGetSet\obj\Debug\net8.0\classAutoGetSet.AssemblyInfo.cs
+C:\Programming\C#\classAutoGetSet\obj\Debug\net8.0\classAutoGetSet.csproj.CoreCompileInputs.cache
+C:\Programming\C#\classAutoGetSet\obj\Debug\net8.0\classAutoGetSet.sourcelink.json
+C:\Programming\C#\classAutoGetSet\bin\Debug\net8.0\classAutoGetSet.exe
+C:\Programming\C#\classAutoGetSet\bin\Debug\net8.0\classAutoGetSet.deps.json
+C:\Programming\C#\classAutoGetSet\bin\Debug\net8.0\classAutoGetSet.runtimeconfig.json
+C:\Programming\C#\classAutoGetSet\bin\Debug\net8.0\classAutoGetSet.dll
+C:\Programming\C#\classAutoGetSet\bin\Debug\net8.0\classAutoGetSet.pdb
+C:\Programming\C#\classAutoGetSet\obj\Debug\net8.0\classAutoGetSet.dll
+C:\Programming\C#\classAutoGetSet\obj\Debug\net8.0\refint\classAutoGetSet.dll
+C:\Programming\C#\classAutoGetSet\obj\Debug\net8.0\classAutoGetSet.pdb
+C:\Programming\C#\classAutoGetSet\obj\Debug\net8.0\classAutoGetSet.genruntimeconfig.cache
+C:\Programming\C#\classAutoGetSet\obj\Debug\net8.0\ref\classAutoGetSet.dll

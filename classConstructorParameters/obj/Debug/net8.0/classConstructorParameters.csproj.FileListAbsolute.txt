@@ -1,0 +1,15 @@
+C:\Programming\C#\classConstructorParameters\bin\Debug\net8.0\classConstructorParameters.exe
+C:\Programming\C#\classConstructorParameters\bin\Debug\net8.0\classConstructorParameters.deps.json
+C:\Programming\C#\classConstructorParameters\bin\Debug\net8.0\classConstructorParameters.runtimeconfig.json
+C:\Programming\C#\classConstructorParameters\bin\Debug\net8.0\classConstructorParameters.dll
+C:\Programming\C#\classConstructorParameters\bin\Debug\net8.0\classConstructorParameters.pdb
+C:\Programming\C#\classConstructorParameters\obj\Debug\net8.0\classConstructorParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\classConstructorParameters\obj\Debug\net8.0\classConstructorParameters.AssemblyInfoInputs.cache
+C:\Programming\C#\classConstructorParameters\obj\Debug\net8.0\classConstructorParameters.AssemblyInfo.cs
+C:\Programming\C#\classConstructorParameters\obj\Debug\net8.0\classConstructorParameters.csproj.CoreCompileInputs.cache
+C:\Programming\C#\classConstructorParameters\obj\Debug\net8.0\classConstructorParameters.sourcelink.json
+C:\Programming\C#\classConstructorParameters\obj\Debug\net8.0\classConstructorParameters.dll
+C:\Programming\C#\classConstructorParameters\obj\Debug\net8.0\refint\classConstructorParameters.dll
+C:\Programming\C#\classConstructorParameters\obj\Debug\net8.0\classConstructorParameters.pdb
+C:\Programming\C#\classConstructorParameters\obj\Debug\net8.0\classConstructorParameters.genruntimeconfig.cache
+C:\Programming\C#\classConstructorParameters\obj\Debug\net8.0\ref\classConstructorParameters.dll

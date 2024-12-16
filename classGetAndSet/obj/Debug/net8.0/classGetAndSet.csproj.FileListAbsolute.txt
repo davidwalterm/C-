@@ -1,0 +1,15 @@
+C:\Programming\C#\classGetAndSet\bin\Debug\net8.0\classGetAndSet.exe
+C:\Programming\C#\classGetAndSet\bin\Debug\net8.0\classGetAndSet.deps.json
+C:\Programming\C#\classGetAndSet\bin\Debug\net8.0\classGetAndSet.runtimeconfig.json
+C:\Programming\C#\classGetAndSet\bin\Debug\net8.0\classGetAndSet.dll
+C:\Programming\C#\classGetAndSet\bin\Debug\net8.0\classGetAndSet.pdb
+C:\Programming\C#\classGetAndSet\obj\Debug\net8.0\classGetAndSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\classGetAndSet\obj\Debug\net8.0\classGetAndSet.AssemblyInfoInputs.cache
+C:\Programming\C#\classGetAndSet\obj\Debug\net8.0\classGetAndSet.AssemblyInfo.cs
+C:\Programming\C#\classGetAndSet\obj\Debug\net8.0\classGetAndSet.csproj.CoreCompileInputs.cache
+C:\Programming\C#\classGetAndSet\obj\Debug\net8.0\classGetAndSet.sourcelink.json
+C:\Programming\C#\classGetAndSet\obj\Debug\net8.0\classGetAndSet.dll
+C:\Programming\C#\classGetAndSet\obj\Debug\net8.0\refint\classGetAndSet.dll
+C:\Programming\C#\classGetAndSet\obj\Debug\net8.0\classGetAndSet.pdb
+C:\Programming\C#\classGetAndSet\obj\Debug\net8.0\classGetAndSet.genruntimeconfig.cache
+C:\Programming\C#\classGetAndSet\obj\Debug\net8.0\ref\classGetAndSet.dll

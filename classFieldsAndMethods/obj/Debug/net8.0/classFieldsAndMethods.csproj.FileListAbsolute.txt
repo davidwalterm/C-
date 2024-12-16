@@ -1,0 +1,15 @@
+C:\Programming\C#\classFieldsAndMethods\bin\Debug\net8.0\classFieldsAndMethods.exe
+C:\Programming\C#\classFieldsAndMethods\bin\Debug\net8.0\classFieldsAndMethods.deps.json
+C:\Programming\C#\classFieldsAndMethods\bin\Debug\net8.0\classFieldsAndMethods.runtimeconfig.json
+C:\Programming\C#\classFieldsAndMethods\bin\Debug\net8.0\classFieldsAndMethods.dll
+C:\Programming\C#\classFieldsAndMethods\bin\Debug\net8.0\classFieldsAndMethods.pdb
+C:\Programming\C#\classFieldsAndMethods\obj\Debug\net8.0\classFieldsAndMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\classFieldsAndMethods\obj\Debug\net8.0\classFieldsAndMethods.AssemblyInfoInputs.cache
+C:\Programming\C#\classFieldsAndMethods\obj\Debug\net8.0\classFieldsAndMethods.AssemblyInfo.cs
+C:\Programming\C#\classFieldsAndMethods\obj\Debug\net8.0\classFieldsAndMethods.csproj.CoreCompileInputs.cache
+C:\Programming\C#\classFieldsAndMethods\obj\Debug\net8.0\classFieldsAndMethods.sourcelink.json
+C:\Programming\C#\classFieldsAndMethods\obj\Debug\net8.0\classFieldsAndMethods.dll
+C:\Programming\C#\classFieldsAndMethods\obj\Debug\net8.0\refint\classFieldsAndMethods.dll
+C:\Programming\C#\classFieldsAndMethods\obj\Debug\net8.0\classFieldsAndMethods.pdb
+C:\Programming\C#\classFieldsAndMethods\obj\Debug\net8.0\classFieldsAndMethods.genruntimeconfig.cache
+C:\Programming\C#\classFieldsAndMethods\obj\Debug\net8.0\ref\classFieldsAndMethods.dll

@@ -1,0 +1,15 @@
+C:\Programming\C#\classFileOperations\bin\Debug\net8.0\classFileOperations.exe
+C:\Programming\C#\classFileOperations\bin\Debug\net8.0\classFileOperations.deps.json
+C:\Programming\C#\classFileOperations\bin\Debug\net8.0\classFileOperations.runtimeconfig.json
+C:\Programming\C#\classFileOperations\bin\Debug\net8.0\classFileOperations.dll
+C:\Programming\C#\classFileOperations\bin\Debug\net8.0\classFileOperations.pdb
+C:\Programming\C#\classFileOperations\obj\Debug\net8.0\classFileOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\classFileOperations\obj\Debug\net8.0\classFileOperations.AssemblyInfoInputs.cache
+C:\Programming\C#\classFileOperations\obj\Debug\net8.0\classFileOperations.AssemblyInfo.cs
+C:\Programming\C#\classFileOperations\obj\Debug\net8.0\classFileOperations.csproj.CoreCompileInputs.cache
+C:\Programming\C#\classFileOperations\obj\Debug\net8.0\classFileOperations.sourcelink.json
+C:\Programming\C#\classFileOperations\obj\Debug\net8.0\classFileOperations.dll
+C:\Programming\C#\classFileOperations\obj\Debug\net8.0\refint\classFileOperations.dll
+C:\Programming\C#\classFileOperations\obj\Debug\net8.0\classFileOperations.pdb
+C:\Programming\C#\classFileOperations\obj\Debug\net8.0\classFileOperations.genruntimeconfig.cache
+C:\Programming\C#\classFileOperations\obj\Debug\net8.0\ref\classFileOperations.dll

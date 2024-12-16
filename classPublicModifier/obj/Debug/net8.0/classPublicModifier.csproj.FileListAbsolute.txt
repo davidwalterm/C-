@@ -1,0 +1,15 @@
+C:\Programming\C#\classPublicModifier\bin\Debug\net8.0\classPublicModifier.exe
+C:\Programming\C#\classPublicModifier\bin\Debug\net8.0\classPublicModifier.deps.json
+C:\Programming\C#\classPublicModifier\bin\Debug\net8.0\classPublicModifier.runtimeconfig.json
+C:\Programming\C#\classPublicModifier\bin\Debug\net8.0\classPublicModifier.dll
+C:\Programming\C#\classPublicModifier\bin\Debug\net8.0\classPublicModifier.pdb
+C:\Programming\C#\classPublicModifier\obj\Debug\net8.0\classPublicModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\classPublicModifier\obj\Debug\net8.0\classPublicModifier.AssemblyInfoInputs.cache
+C:\Programming\C#\classPublicModifier\obj\Debug\net8.0\classPublicModifier.AssemblyInfo.cs
+C:\Programming\C#\classPublicModifier\obj\Debug\net8.0\classPublicModifier.csproj.CoreCompileInputs.cache
+C:\Programming\C#\classPublicModifier\obj\Debug\net8.0\classPublicModifier.sourcelink.json
+C:\Programming\C#\classPublicModifier\obj\Debug\net8.0\classPublicModifier.dll
+C:\Programming\C#\classPublicModifier\obj\Debug\net8.0\refint\classPublicModifier.dll
+C:\Programming\C#\classPublicModifier\obj\Debug\net8.0\classPublicModifier.pdb
+C:\Programming\C#\classPublicModifier\obj\Debug\net8.0\classPublicModifier.genruntimeconfig.cache
+C:\Programming\C#\classPublicModifier\obj\Debug\net8.0\ref\classPublicModifier.dll
