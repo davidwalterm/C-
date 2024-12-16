@@ -1,0 +1,15 @@
+C:\Programming\C#\methodNamedArguments\bin\Debug\net8.0\methodNamedArgumets.exe
+C:\Programming\C#\methodNamedArguments\bin\Debug\net8.0\methodNamedArgumets.deps.json
+C:\Programming\C#\methodNamedArguments\bin\Debug\net8.0\methodNamedArgumets.runtimeconfig.json
+C:\Programming\C#\methodNamedArguments\bin\Debug\net8.0\methodNamedArgumets.dll
+C:\Programming\C#\methodNamedArguments\bin\Debug\net8.0\methodNamedArgumets.pdb
+C:\Programming\C#\methodNamedArguments\obj\Debug\net8.0\methodNamedArgumets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\methodNamedArguments\obj\Debug\net8.0\methodNamedArgumets.AssemblyInfoInputs.cache
+C:\Programming\C#\methodNamedArguments\obj\Debug\net8.0\methodNamedArgumets.AssemblyInfo.cs
+C:\Programming\C#\methodNamedArguments\obj\Debug\net8.0\methodNamedArgumets.csproj.CoreCompileInputs.cache
+C:\Programming\C#\methodNamedArguments\obj\Debug\net8.0\methodNamedArgumets.sourcelink.json
+C:\Programming\C#\methodNamedArguments\obj\Debug\net8.0\methodNamedArgumets.dll
+C:\Programming\C#\methodNamedArguments\obj\Debug\net8.0\refint\methodNamedArgumets.dll
+C:\Programming\C#\methodNamedArguments\obj\Debug\net8.0\methodNamedArgumets.pdb
+C:\Programming\C#\methodNamedArguments\obj\Debug\net8.0\methodNamedArgumets.genruntimeconfig.cache
+C:\Programming\C#\methodNamedArguments\obj\Debug\net8.0\ref\methodNamedArgumets.dll

@@ -1,0 +1,15 @@
+C:\Programming\C#\defaultMethodParameters\bin\Debug\net8.0\defaultMethodParameters.exe
+C:\Programming\C#\defaultMethodParameters\bin\Debug\net8.0\defaultMethodParameters.deps.json
+C:\Programming\C#\defaultMethodParameters\bin\Debug\net8.0\defaultMethodParameters.runtimeconfig.json
+C:\Programming\C#\defaultMethodParameters\bin\Debug\net8.0\defaultMethodParameters.dll
+C:\Programming\C#\defaultMethodParameters\bin\Debug\net8.0\defaultMethodParameters.pdb
+C:\Programming\C#\defaultMethodParameters\obj\Debug\net8.0\defaultMethodParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\defaultMethodParameters\obj\Debug\net8.0\defaultMethodParameters.AssemblyInfoInputs.cache
+C:\Programming\C#\defaultMethodParameters\obj\Debug\net8.0\defaultMethodParameters.AssemblyInfo.cs
+C:\Programming\C#\defaultMethodParameters\obj\Debug\net8.0\defaultMethodParameters.csproj.CoreCompileInputs.cache
+C:\Programming\C#\defaultMethodParameters\obj\Debug\net8.0\defaultMethodParameters.sourcelink.json
+C:\Programming\C#\defaultMethodParameters\obj\Debug\net8.0\defaultMethodParameters.dll
+C:\Programming\C#\defaultMethodParameters\obj\Debug\net8.0\refint\defaultMethodParameters.dll
+C:\Programming\C#\defaultMethodParameters\obj\Debug\net8.0\defaultMethodParameters.pdb
+C:\Programming\C#\defaultMethodParameters\obj\Debug\net8.0\defaultMethodParameters.genruntimeconfig.cache
+C:\Programming\C#\defaultMethodParameters\obj\Debug\net8.0\ref\defaultMethodParameters.dll

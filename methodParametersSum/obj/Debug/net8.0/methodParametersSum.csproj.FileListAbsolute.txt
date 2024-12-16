@@ -1,0 +1,15 @@
+C:\Programming\C#\methodParametersSum\bin\Debug\net8.0\methodParametersSum.exe
+C:\Programming\C#\methodParametersSum\bin\Debug\net8.0\methodParametersSum.deps.json
+C:\Programming\C#\methodParametersSum\bin\Debug\net8.0\methodParametersSum.runtimeconfig.json
+C:\Programming\C#\methodParametersSum\bin\Debug\net8.0\methodParametersSum.dll
+C:\Programming\C#\methodParametersSum\bin\Debug\net8.0\methodParametersSum.pdb
+C:\Programming\C#\methodParametersSum\obj\Debug\net8.0\methodParametersSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\methodParametersSum\obj\Debug\net8.0\methodParametersSum.AssemblyInfoInputs.cache
+C:\Programming\C#\methodParametersSum\obj\Debug\net8.0\methodParametersSum.AssemblyInfo.cs
+C:\Programming\C#\methodParametersSum\obj\Debug\net8.0\methodParametersSum.csproj.CoreCompileInputs.cache
+C:\Programming\C#\methodParametersSum\obj\Debug\net8.0\methodParametersSum.sourcelink.json
+C:\Programming\C#\methodParametersSum\obj\Debug\net8.0\methodParametersSum.dll
+C:\Programming\C#\methodParametersSum\obj\Debug\net8.0\refint\methodParametersSum.dll
+C:\Programming\C#\methodParametersSum\obj\Debug\net8.0\methodParametersSum.pdb
+C:\Programming\C#\methodParametersSum\obj\Debug\net8.0\methodParametersSum.genruntimeconfig.cache
+C:\Programming\C#\methodParametersSum\obj\Debug\net8.0\ref\methodParametersSum.dll

@@ -1,0 +1,15 @@
+C:\Programming\C#\createCallMethod\bin\Debug\net8.0\createCallMethod.exe
+C:\Programming\C#\createCallMethod\bin\Debug\net8.0\createCallMethod.deps.json
+C:\Programming\C#\createCallMethod\bin\Debug\net8.0\createCallMethod.runtimeconfig.json
+C:\Programming\C#\createCallMethod\bin\Debug\net8.0\createCallMethod.dll
+C:\Programming\C#\createCallMethod\bin\Debug\net8.0\createCallMethod.pdb
+C:\Programming\C#\createCallMethod\obj\Debug\net8.0\createCallMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\createCallMethod\obj\Debug\net8.0\createCallMethod.AssemblyInfoInputs.cache
+C:\Programming\C#\createCallMethod\obj\Debug\net8.0\createCallMethod.AssemblyInfo.cs
+C:\Programming\C#\createCallMethod\obj\Debug\net8.0\createCallMethod.csproj.CoreCompileInputs.cache
+C:\Programming\C#\createCallMethod\obj\Debug\net8.0\createCallMethod.sourcelink.json
+C:\Programming\C#\createCallMethod\obj\Debug\net8.0\createCallMethod.dll
+C:\Programming\C#\createCallMethod\obj\Debug\net8.0\refint\createCallMethod.dll
+C:\Programming\C#\createCallMethod\obj\Debug\net8.0\createCallMethod.pdb
+C:\Programming\C#\createCallMethod\obj\Debug\net8.0\createCallMethod.genruntimeconfig.cache
+C:\Programming\C#\createCallMethod\obj\Debug\net8.0\ref\createCallMethod.dll

@@ -1,0 +1,15 @@
+C:\Programming\C#\methodWithParameters\bin\Debug\net8.0\methodWithParameters.exe
+C:\Programming\C#\methodWithParameters\bin\Debug\net8.0\methodWithParameters.deps.json
+C:\Programming\C#\methodWithParameters\bin\Debug\net8.0\methodWithParameters.runtimeconfig.json
+C:\Programming\C#\methodWithParameters\bin\Debug\net8.0\methodWithParameters.dll
+C:\Programming\C#\methodWithParameters\bin\Debug\net8.0\methodWithParameters.pdb
+C:\Programming\C#\methodWithParameters\obj\Debug\net8.0\methodWithParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\methodWithParameters\obj\Debug\net8.0\methodWithParameters.AssemblyInfoInputs.cache
+C:\Programming\C#\methodWithParameters\obj\Debug\net8.0\methodWithParameters.AssemblyInfo.cs
+C:\Programming\C#\methodWithParameters\obj\Debug\net8.0\methodWithParameters.csproj.CoreCompileInputs.cache
+C:\Programming\C#\methodWithParameters\obj\Debug\net8.0\methodWithParameters.sourcelink.json
+C:\Programming\C#\methodWithParameters\obj\Debug\net8.0\methodWithParameters.dll
+C:\Programming\C#\methodWithParameters\obj\Debug\net8.0\refint\methodWithParameters.dll
+C:\Programming\C#\methodWithParameters\obj\Debug\net8.0\methodWithParameters.pdb
+C:\Programming\C#\methodWithParameters\obj\Debug\net8.0\methodWithParameters.genruntimeconfig.cache
+C:\Programming\C#\methodWithParameters\obj\Debug\net8.0\ref\methodWithParameters.dll

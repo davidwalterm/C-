@@ -1,0 +1,15 @@
+C:\Programming\C#\methodReturn\bin\Debug\net8.0\methodReturn.exe
+C:\Programming\C#\methodReturn\bin\Debug\net8.0\methodReturn.deps.json
+C:\Programming\C#\methodReturn\bin\Debug\net8.0\methodReturn.runtimeconfig.json
+C:\Programming\C#\methodReturn\bin\Debug\net8.0\methodReturn.dll
+C:\Programming\C#\methodReturn\bin\Debug\net8.0\methodReturn.pdb
+C:\Programming\C#\methodReturn\obj\Debug\net8.0\methodReturn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\methodReturn\obj\Debug\net8.0\methodReturn.AssemblyInfoInputs.cache
+C:\Programming\C#\methodReturn\obj\Debug\net8.0\methodReturn.AssemblyInfo.cs
+C:\Programming\C#\methodReturn\obj\Debug\net8.0\methodReturn.csproj.CoreCompileInputs.cache
+C:\Programming\C#\methodReturn\obj\Debug\net8.0\methodReturn.sourcelink.json
+C:\Programming\C#\methodReturn\obj\Debug\net8.0\methodReturn.dll
+C:\Programming\C#\methodReturn\obj\Debug\net8.0\refint\methodReturn.dll
+C:\Programming\C#\methodReturn\obj\Debug\net8.0\methodReturn.pdb
+C:\Programming\C#\methodReturn\obj\Debug\net8.0\methodReturn.genruntimeconfig.cache
+C:\Programming\C#\methodReturn\obj\Debug\net8.0\ref\methodReturn.dll

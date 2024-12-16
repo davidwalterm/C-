@@ -1,0 +1,15 @@
+C:\Programming\C#\callMethodMoreTimes\bin\Debug\net8.0\callMethodMoreTimes.exe
+C:\Programming\C#\callMethodMoreTimes\bin\Debug\net8.0\callMethodMoreTimes.deps.json
+C:\Programming\C#\callMethodMoreTimes\bin\Debug\net8.0\callMethodMoreTimes.runtimeconfig.json
+C:\Programming\C#\callMethodMoreTimes\bin\Debug\net8.0\callMethodMoreTimes.dll
+C:\Programming\C#\callMethodMoreTimes\bin\Debug\net8.0\callMethodMoreTimes.pdb
+C:\Programming\C#\callMethodMoreTimes\obj\Debug\net8.0\callMethodMoreTimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\callMethodMoreTimes\obj\Debug\net8.0\callMethodMoreTimes.AssemblyInfoInputs.cache
+C:\Programming\C#\callMethodMoreTimes\obj\Debug\net8.0\callMethodMoreTimes.AssemblyInfo.cs
+C:\Programming\C#\callMethodMoreTimes\obj\Debug\net8.0\callMethodMoreTimes.csproj.CoreCompileInputs.cache
+C:\Programming\C#\callMethodMoreTimes\obj\Debug\net8.0\callMethodMoreTimes.sourcelink.json
+C:\Programming\C#\callMethodMoreTimes\obj\Debug\net8.0\callMethodMoreTimes.dll
+C:\Programming\C#\callMethodMoreTimes\obj\Debug\net8.0\refint\callMethodMoreTimes.dll
+C:\Programming\C#\callMethodMoreTimes\obj\Debug\net8.0\callMethodMoreTimes.pdb
+C:\Programming\C#\callMethodMoreTimes\obj\Debug\net8.0\callMethodMoreTimes.genruntimeconfig.cache
+C:\Programming\C#\callMethodMoreTimes\obj\Debug\net8.0\ref\callMethodMoreTimes.dll
