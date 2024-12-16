@@ -1,0 +1,15 @@
+C:\Programming\C#\switchDefault\bin\Debug\net8.0\switchDefault.exe
+C:\Programming\C#\switchDefault\bin\Debug\net8.0\switchDefault.deps.json
+C:\Programming\C#\switchDefault\bin\Debug\net8.0\switchDefault.runtimeconfig.json
+C:\Programming\C#\switchDefault\bin\Debug\net8.0\switchDefault.dll
+C:\Programming\C#\switchDefault\bin\Debug\net8.0\switchDefault.pdb
+C:\Programming\C#\switchDefault\obj\Debug\net8.0\switchDefault.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\switchDefault\obj\Debug\net8.0\switchDefault.AssemblyInfoInputs.cache
+C:\Programming\C#\switchDefault\obj\Debug\net8.0\switchDefault.AssemblyInfo.cs
+C:\Programming\C#\switchDefault\obj\Debug\net8.0\switchDefault.csproj.CoreCompileInputs.cache
+C:\Programming\C#\switchDefault\obj\Debug\net8.0\switchDefault.sourcelink.json
+C:\Programming\C#\switchDefault\obj\Debug\net8.0\switchDefault.dll
+C:\Programming\C#\switchDefault\obj\Debug\net8.0\refint\switchDefault.dll
+C:\Programming\C#\switchDefault\obj\Debug\net8.0\switchDefault.pdb
+C:\Programming\C#\switchDefault\obj\Debug\net8.0\switchDefault.genruntimeconfig.cache
+C:\Programming\C#\switchDefault\obj\Debug\net8.0\ref\switchDefault.dll

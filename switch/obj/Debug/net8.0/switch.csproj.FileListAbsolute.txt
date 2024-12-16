@@ -1,0 +1,15 @@
+C:\Programming\C#\switch\bin\Debug\net8.0\switch.exe
+C:\Programming\C#\switch\bin\Debug\net8.0\switch.deps.json
+C:\Programming\C#\switch\bin\Debug\net8.0\switch.runtimeconfig.json
+C:\Programming\C#\switch\bin\Debug\net8.0\switch.dll
+C:\Programming\C#\switch\bin\Debug\net8.0\switch.pdb
+C:\Programming\C#\switch\obj\Debug\net8.0\switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\switch\obj\Debug\net8.0\switch.AssemblyInfoInputs.cache
+C:\Programming\C#\switch\obj\Debug\net8.0\switch.AssemblyInfo.cs
+C:\Programming\C#\switch\obj\Debug\net8.0\switch.csproj.CoreCompileInputs.cache
+C:\Programming\C#\switch\obj\Debug\net8.0\switch.sourcelink.json
+C:\Programming\C#\switch\obj\Debug\net8.0\switch.dll
+C:\Programming\C#\switch\obj\Debug\net8.0\refint\switch.dll
+C:\Programming\C#\switch\obj\Debug\net8.0\switch.pdb
+C:\Programming\C#\switch\obj\Debug\net8.0\switch.genruntimeconfig.cache
+C:\Programming\C#\switch\obj\Debug\net8.0\ref\switch.dll
