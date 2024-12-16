@@ -1,0 +1,15 @@
+C:\Programming\C#\breakLoop\bin\Debug\net8.0\breakLoop.exe
+C:\Programming\C#\breakLoop\bin\Debug\net8.0\breakLoop.deps.json
+C:\Programming\C#\breakLoop\bin\Debug\net8.0\breakLoop.runtimeconfig.json
+C:\Programming\C#\breakLoop\bin\Debug\net8.0\breakLoop.dll
+C:\Programming\C#\breakLoop\bin\Debug\net8.0\breakLoop.pdb
+C:\Programming\C#\breakLoop\obj\Debug\net8.0\breakLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\breakLoop\obj\Debug\net8.0\breakLoop.AssemblyInfoInputs.cache
+C:\Programming\C#\breakLoop\obj\Debug\net8.0\breakLoop.AssemblyInfo.cs
+C:\Programming\C#\breakLoop\obj\Debug\net8.0\breakLoop.csproj.CoreCompileInputs.cache
+C:\Programming\C#\breakLoop\obj\Debug\net8.0\breakLoop.sourcelink.json
+C:\Programming\C#\breakLoop\obj\Debug\net8.0\breakLoop.dll
+C:\Programming\C#\breakLoop\obj\Debug\net8.0\refint\breakLoop.dll
+C:\Programming\C#\breakLoop\obj\Debug\net8.0\breakLoop.pdb
+C:\Programming\C#\breakLoop\obj\Debug\net8.0\breakLoop.genruntimeconfig.cache
+C:\Programming\C#\breakLoop\obj\Debug\net8.0\ref\breakLoop.dll

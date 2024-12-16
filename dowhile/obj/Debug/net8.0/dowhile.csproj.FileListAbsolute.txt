@@ -1,0 +1,15 @@
+C:\Programming\C#\dowhile\bin\Debug\net8.0\dowhile.exe
+C:\Programming\C#\dowhile\bin\Debug\net8.0\dowhile.deps.json
+C:\Programming\C#\dowhile\bin\Debug\net8.0\dowhile.runtimeconfig.json
+C:\Programming\C#\dowhile\bin\Debug\net8.0\dowhile.dll
+C:\Programming\C#\dowhile\bin\Debug\net8.0\dowhile.pdb
+C:\Programming\C#\dowhile\obj\Debug\net8.0\dowhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\dowhile\obj\Debug\net8.0\dowhile.AssemblyInfoInputs.cache
+C:\Programming\C#\dowhile\obj\Debug\net8.0\dowhile.AssemblyInfo.cs
+C:\Programming\C#\dowhile\obj\Debug\net8.0\dowhile.csproj.CoreCompileInputs.cache
+C:\Programming\C#\dowhile\obj\Debug\net8.0\dowhile.sourcelink.json
+C:\Programming\C#\dowhile\obj\Debug\net8.0\dowhile.dll
+C:\Programming\C#\dowhile\obj\Debug\net8.0\refint\dowhile.dll
+C:\Programming\C#\dowhile\obj\Debug\net8.0\dowhile.pdb
+C:\Programming\C#\dowhile\obj\Debug\net8.0\dowhile.genruntimeconfig.cache
+C:\Programming\C#\dowhile\obj\Debug\net8.0\ref\dowhile.dll

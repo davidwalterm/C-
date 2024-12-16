@@ -1,0 +1,15 @@
+C:\Programming\C#\continueLoop\bin\Debug\net8.0\continueLoop.exe
+C:\Programming\C#\continueLoop\bin\Debug\net8.0\continueLoop.deps.json
+C:\Programming\C#\continueLoop\bin\Debug\net8.0\continueLoop.runtimeconfig.json
+C:\Programming\C#\continueLoop\bin\Debug\net8.0\continueLoop.dll
+C:\Programming\C#\continueLoop\bin\Debug\net8.0\continueLoop.pdb
+C:\Programming\C#\continueLoop\obj\Debug\net8.0\continueLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\continueLoop\obj\Debug\net8.0\continueLoop.AssemblyInfoInputs.cache
+C:\Programming\C#\continueLoop\obj\Debug\net8.0\continueLoop.AssemblyInfo.cs
+C:\Programming\C#\continueLoop\obj\Debug\net8.0\continueLoop.csproj.CoreCompileInputs.cache
+C:\Programming\C#\continueLoop\obj\Debug\net8.0\continueLoop.sourcelink.json
+C:\Programming\C#\continueLoop\obj\Debug\net8.0\continueLoop.dll
+C:\Programming\C#\continueLoop\obj\Debug\net8.0\refint\continueLoop.dll
+C:\Programming\C#\continueLoop\obj\Debug\net8.0\continueLoop.pdb
+C:\Programming\C#\continueLoop\obj\Debug\net8.0\continueLoop.genruntimeconfig.cache
+C:\Programming\C#\continueLoop\obj\Debug\net8.0\ref\continueLoop.dll

@@ -1,0 +1,15 @@
+C:\Programming\C#\createArray\bin\Debug\net8.0\createArray.exe
+C:\Programming\C#\createArray\bin\Debug\net8.0\createArray.deps.json
+C:\Programming\C#\createArray\bin\Debug\net8.0\createArray.runtimeconfig.json
+C:\Programming\C#\createArray\bin\Debug\net8.0\createArray.dll
+C:\Programming\C#\createArray\bin\Debug\net8.0\createArray.pdb
+C:\Programming\C#\createArray\obj\Debug\net8.0\createArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\createArray\obj\Debug\net8.0\createArray.AssemblyInfoInputs.cache
+C:\Programming\C#\createArray\obj\Debug\net8.0\createArray.AssemblyInfo.cs
+C:\Programming\C#\createArray\obj\Debug\net8.0\createArray.csproj.CoreCompileInputs.cache
+C:\Programming\C#\createArray\obj\Debug\net8.0\createArray.sourcelink.json
+C:\Programming\C#\createArray\obj\Debug\net8.0\createArray.dll
+C:\Programming\C#\createArray\obj\Debug\net8.0\refint\createArray.dll
+C:\Programming\C#\createArray\obj\Debug\net8.0\createArray.pdb
+C:\Programming\C#\createArray\obj\Debug\net8.0\createArray.genruntimeconfig.cache
+C:\Programming\C#\createArray\obj\Debug\net8.0\ref\createArray.dll
