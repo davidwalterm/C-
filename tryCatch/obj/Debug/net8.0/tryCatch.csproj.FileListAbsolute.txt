@@ -1,0 +1,15 @@
+C:\Programming\C#\tryCatch\bin\Debug\net8.0\tryCatch.exe
+C:\Programming\C#\tryCatch\bin\Debug\net8.0\tryCatch.deps.json
+C:\Programming\C#\tryCatch\bin\Debug\net8.0\tryCatch.runtimeconfig.json
+C:\Programming\C#\tryCatch\bin\Debug\net8.0\tryCatch.dll
+C:\Programming\C#\tryCatch\bin\Debug\net8.0\tryCatch.pdb
+C:\Programming\C#\tryCatch\obj\Debug\net8.0\tryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\tryCatch\obj\Debug\net8.0\tryCatch.AssemblyInfoInputs.cache
+C:\Programming\C#\tryCatch\obj\Debug\net8.0\tryCatch.AssemblyInfo.cs
+C:\Programming\C#\tryCatch\obj\Debug\net8.0\tryCatch.csproj.CoreCompileInputs.cache
+C:\Programming\C#\tryCatch\obj\Debug\net8.0\tryCatch.sourcelink.json
+C:\Programming\C#\tryCatch\obj\Debug\net8.0\tryCatch.dll
+C:\Programming\C#\tryCatch\obj\Debug\net8.0\refint\tryCatch.dll
+C:\Programming\C#\tryCatch\obj\Debug\net8.0\tryCatch.pdb
+C:\Programming\C#\tryCatch\obj\Debug\net8.0\tryCatch.genruntimeconfig.cache
+C:\Programming\C#\tryCatch\obj\Debug\net8.0\ref\tryCatch.dll
